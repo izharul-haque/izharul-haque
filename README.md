@@ -2,7 +2,7 @@
 <h3 align="center">Accomplished and adaptable professional, with great business communication and result oriented with consistency to meet deadlines and process improvement. Currently, Learning and working on ML and other data science projects.</h3>
 
 
-- 🔭 I’m currently working on **NLP (Web & Social Media Analytics)**
+- 🔭 I’m currently working on **NLP Project(Web & Social Media Analytics)**
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
