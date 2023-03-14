@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Izharul Haque</h1>
-<h3 align="center">Accomplished and adaptable professional, with great business communication and result oriented with consistency to meet deadlines and process improvement. Currently, Learning and working on ML and other data science projects.</h3>
+<h3 align="center">Accomplished and adaptable professional, with great business communication and result oriented with consistency to meet deadlines and process improvement. Currently, working on ML and other data science projects, also write technical blogs on medium.</h3>
 
 
 - 🔭 Completed working on **NLP Project(Web & Social Media Analytics)**
 
-- 🌱 I’m currently learning **Machine Learning and Deep Learning**
+- 🌱 I’m currently working on **Machine Learning and Deep Learning**
 
 - 👯 I’m looking to collaborate on **Machine Learning, Deep Learning and Tableau projects**
 
@@ -14,12 +14,12 @@
 
 - 📫 How to reach me **izharul_haque@outlook.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/findmeizhar](https://www.linkedin.com/in/findmeizhar/)
+- 📄 Check out my blogs on medium https://medium.com/@izharul_haque
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iiiizzhhaarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iiiizzhhaarr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/findmeizhar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="findmeizhar/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/izharulhaque/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="izharulhaque/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
